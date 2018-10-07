@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# idea IDE
+.idea/
+
+# dist
+dist/
+
+# ignore package-lock
+package-lock.json
